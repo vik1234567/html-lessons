@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Raleway, Roboto, Helvetica, sans-serif;
+  min-width: 780px;
+  background-image: "les2/dz2/img/back.jpg";
+}
+.header {
+  background-color: red;
+}
+.task {
+  margin: 40px;
+}
+.task ul {
+  list-style-image: url(/les2/dz2/img/work1.png) 0;
+}
